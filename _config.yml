@@ -20,8 +20,8 @@
 
 title: Jekyll en Acción
 email: genexus.mancilla@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Este es un ejemplo de sitio con Jekyll
+description: >- 
+  Bienvenido a mi sitio web creado con GitHub Pages y Jekyll.
 baseurl: "/holaJekyll" # the subpath of your site, e.g. /blog
 url: "https://genexusmancilla.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
